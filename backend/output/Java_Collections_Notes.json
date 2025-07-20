@@ -1,0 +1,55 @@
+{
+  "title": "Untitled Document",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Java Collections & Utility Classes",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "The Java Collections Framework (JCF) is a set of interfaces and classes for storing and manipulating groups of data as",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Used to define the natural ordering of objects.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Method: int compareTo(T o)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Example: this.age - o.age (ascending sort by age)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Used for external, custom ordering.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Method: int compare(T o1, T o2)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Example: return s1.age - s2.age;",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Comparable:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Comparator:",
+      "page": 1
+    }
+  ]
+}
